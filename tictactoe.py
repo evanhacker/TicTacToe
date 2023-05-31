@@ -76,7 +76,6 @@ class board:
 new_game = board()
 new_game.play_game()
 
-
 #whose turn is it
 #randomize who starts
 #ask for input
@@ -89,6 +88,6 @@ new_game.play_game()
 #print when there is a winner
 # printing - abstract the board
     #def undo():
-
+#git it
 #building a random spot selector from random in open_spots
 #play againsyt computer
